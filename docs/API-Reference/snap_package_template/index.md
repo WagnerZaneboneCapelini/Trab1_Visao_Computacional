@@ -1,1 +1,1 @@
-::: src.snap_package_template
+::: src.trab1_visao_computacional

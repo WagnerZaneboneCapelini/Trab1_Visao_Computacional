@@ -16,10 +16,10 @@ echo "Description: $description";
 
 echo "Renaming project..."
 
-original_author="snapenv"
-original_name="snap_package_template"
-original_urlname="snap-package-template"
-original_description="SnapEnv template for Python package."
+original_author="WagnerZaneboneCapelini"
+original_name="trab1_visao_computacional"
+original_urlname="Trab1_Visao_Computacional"
+original_description="Awesome trab1_visao_computacional created by WagnerZaneboneCapelini"
 # Iterate over all files in the repository
 git ls-files | while read -r filename; do
     # Exclude .github/workflows/rename_project.yml from renaming
